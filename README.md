@@ -401,24 +401,10 @@ Additional project documents may include:
 - `docs/RIUS_OBSERVABILITY.md` — tracing configuration and privacy
 - `docs/APPROVALS_TROUBLESHOOTING.md` — approval dashboard troubleshooting
 
-Keep the documentation links aligned with the files included in your repository.
 
-## Project Scope
 
-The project does **not** require Node.js, Kubernetes, Terraform, Amazon SQS, AWS RDS, or an MCP server. The reference application uses a demonstration principal rather than real authentication. HITL approval is a decision-recording workflow, not an automated action executor.
 
-## Contributing
 
-Issues and pull requests are welcome where enabled. For substantial changes, describe the motivation, implementation approach, testing performed, and any infrastructure or configuration impact. Never include credentials or private organizational documents in a pull request.
 
-## License
 
-**License not yet specified.** Add a `LICENSE` file and update this section if you intend to release the repository under an open-source license.
 
----
-
-<div align="center">
-
-**Atlas Enterprise AI** — Practical enterprise RAG engineering, from local development to AWS CI/CD.
-
-</div>
